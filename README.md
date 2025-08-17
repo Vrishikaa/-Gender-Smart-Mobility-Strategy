@@ -72,7 +72,7 @@ A fully interactive Power BI dashboard was developed featuring:
 - **Target KPIs & Anomaly Detection**
 
 > 📌 *Visuals and PBIX file available in the `/dashboards` folder.*
-> <img width="1920" height="1200" alt="Screenshot 2025-07-28 221734" src="https://github.com/user-attachments/assets/549c6ebc-668d-4918-9225-242e74e25e0f" />
+> 
 <img width="1920" height="1200" alt="Screenshot 2025-07-28 221734" src="https://github.com/user-attachments/assets/abd99022-e3a6-4856-81cf-dd5600ba0c86" />
 <img width="1920" height="1200" alt="Screenshot 2025-07-28 222704" src="https://github.com/user-attachments/assets/e3382d38-b93c-45bd-91a2-5ea8c8d898fc" />
 <img width="1920" height="1200" alt="Screenshot 2025-07-28 223657" src="https://github.com/user-attachments/assets/291ac922-b9ed-4fb7-9879-48042e29c99c" />
